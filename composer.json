@@ -1,6 +1,7 @@
 {
   "name": "magentoese/module-bookmark-sample-data",
-  "description": "",
+  "description": "creates bookmarks for admin grids",
+  "version": "1.0.0",
   "require": {
     "php": "~7.1.0|~7.2.0"
   },
